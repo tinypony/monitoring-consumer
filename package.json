@@ -1,0 +1,16 @@
+{
+  "name": "monitoring-consumer",
+  "version": "0.0.1",
+  "description": "Simple WS client to consume monitoring statistics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Latypov",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0",
+    "websocket-client": "^1.0.0",
+    "ws": "^1.0.1"
+  }
+}
